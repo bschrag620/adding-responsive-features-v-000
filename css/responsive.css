@@ -55,7 +55,11 @@
   
   .border-right {
     border: 0;
-    
+  }
+  
+  #detail div {
+    height: auto;
+    padding: 10px;
   }
 }
 
