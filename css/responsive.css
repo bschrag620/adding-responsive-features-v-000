@@ -89,5 +89,9 @@
 	}
 }
 
-@media screen only (max-width: 4)
+@media screen only (max-width: 495px) {
+  #logo h2 {
+    
+  }
+}
 
