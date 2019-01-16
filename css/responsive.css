@@ -68,6 +68,12 @@
     column-count: 1;
 	}
 	
-	#navbar nav a.menu-icon
+	#navbar nav a {
+	  display: none;
+	}
+	
+	#navbar nav a.menu-icon {
+	  display: ;
+	}
 }
 
