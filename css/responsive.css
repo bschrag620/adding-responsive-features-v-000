@@ -53,6 +53,8 @@
     float: none;
   }
   
-  .border
+  .border-right {
+    border
+  }
 }
 
